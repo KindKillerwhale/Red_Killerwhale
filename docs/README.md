@@ -2,6 +2,8 @@
 
 Red_Killerwhale is a cryptocurrency trading bot that leverages market data to find arbitrage opportunities and make profitable trades. It integrates with multiple exchanges and provides real-time updates via a Telegram bot.
 
+# Incomplete!!!!
+
 ## Features
 
 - **Arbitrage Strategies:** Identify profitable trading opportunities across multiple exchanges.
