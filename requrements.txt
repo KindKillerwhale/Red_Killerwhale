@@ -1,0 +1,6 @@
+numpy==1.21.0
+networkx==2.5
+ccxtpro==0.7.7
+scikit-learn==0.24.2
+python-telegram-bot==13.4
+asyncio
